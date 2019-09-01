@@ -4,7 +4,8 @@
 
 The maceral components are closely related to the physical and chemical properties of coal, precise identification of the maceral components has a multitude of uses across various industry sectors, including hydrogenation, combustion,
 carbonization, and gasification [1-3].In order to improve the objectivity and efficiency of analysis, an automatic framework to identify the maceral components is presented in this study.
-The proposed maceral analysis method, MISC, based on image segmentation and classification makes it possible to identify the maceral composition automatically and intelligently. We integrated 2-level K-means segmentation algorithm and various classification algorithms in the software. Considering the complex and heterogeneous nature of coal, a two-level coarse-to-fine clustering
+The proposed maceral analysis method, MISC, based on image segmentation and classification makes it possible to identify the maceral composition automatically and intelligently. 
+Considering the complex and heterogeneous nature of coal, a two-level coarse-to-fine clustering
 method based on K-means is employed to divide microscopic images into a sequence of regions with similar attributes (i.e., binder, vitrinite, liptinite, and inertinite). Furthermore, comprehensive features along with random forest are utilized to automatically classify binder and seven types of maceral components, including vitrinite, fusinite, semifusinite, cutinite, sporinite, inertodetrinite and micrinite. 
 Evaluations on 39 microscopic images show that the proposed method achieves state-of-the-art accuracy of 90.44%. The software can be used to support the decisions of petrologists in classifying maceral components.
 
@@ -29,7 +30,7 @@ The segmentation results are presented as 4 subfigures, corresponding to the bin
 Our software will be updated routinely based on users’suggestions and advice. Thus, your feedback is greatly important for our future upgrading. Please do not hesitate to contact with us if you have any concerns.
 
 
-# Citation 
+## Citation 
 We hope you can cite the article if the software has been helpful for your work.                
 [1] Wang, H.; Lei, M.; Chen, Y.; Li, M.; Zou, L. Intelligent Identification of Maceral Components of Coal Based on Image Segmentation and Classification. Applied Sciences 2019, 9, 3245.
 
