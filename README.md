@@ -12,7 +12,7 @@ Evaluations on 39 microscopic images show that the proposed method achieves stat
 
 1. The software of MISC was implemented in Matlab and could be run on
 Windows systems without installing. MISC distributions for Windows can be found at 
-https://github.com/whdcumt/MISC-Master. We recommend that users can download the latest release. 
+https://github.com/GuyooGu/MISC-Master. we recommend that users can download the latest release. 
 
 2. After downloading, please double-click on the file 'MISC.exe' to run the executable file：MISC.exe
 
