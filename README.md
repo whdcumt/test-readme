@@ -34,7 +34,7 @@ We hope you can cite the article if the software has been helpful for your work.
 
 ## FeedBack 
 
-Any suggestions and problems, please feel free to let us know via Email: liangzou@ece.ubc.ca.Thanks a lot.
+Any suggestions and problems, please feel free to let us know via Email: liangzou@ece.ubc.ca. Thanks a lot.
 
 ## License 
 
