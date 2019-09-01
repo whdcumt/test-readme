@@ -2,11 +2,8 @@
 
 ## Introduction
 
-The maceral components are closely related to the physical and chemical properties of coal, precise identification of the maceral components has a multitude of uses across various industry sectors, including hydrogenation, combustion,
-carbonization, and gasification [1-3].In order to improve the objectivity and efficiency of analysis, an automatic framework to identify the maceral components is presented in this study.
-The proposed maceral analysis method, MISC, based on image segmentation and classification makes it possible to identify the maceral composition automatically and intelligently. 
-Considering the complex and heterogeneous nature of coal, a two-level coarse-to-fine clustering
-method based on K-means is employed to divide microscopic images into a sequence of regions with similar attributes (i.e., binder, vitrinite, liptinite, and inertinite). Furthermore, comprehensive features along with random forest are utilized to automatically classify binder and seven types of maceral components, including vitrinite, fusinite, semifusinite, cutinite, sporinite, inertodetrinite and micrinite. 
+The maceral components are closely related to the physical and chemical properties of coal, precise identification of the maceral components has a multitude of uses across various industry sectors, including hydrogenation, combustion, carbonization, and gasification [1-3].In order to improve the objectivity and efficiency of analysis, an automatic framework to identify the maceral components is presented in this study.
+The proposed maceral analysis method, MISC, based on image segmentation and classification makes it possible to identify the maceral composition automatically and intelligently. Considering the complex and heterogeneous nature of coal, a two-level coarse-to-fine clustering method based on K-means is employed to divide microscopic images into a sequence of regions with similar attributes (i.e., binder, vitrinite, liptinite, and inertinite). Furthermore, comprehensive features along with random forest are utilized to automatically classify binder and seven types of maceral components, including vitrinite, fusinite, semifusinite, cutinite, sporinite, inertodetrinite and micrinite. 
 Evaluations on 39 microscopic images show that the proposed method achieves state-of-the-art accuracy of 90.44%. The software can be used to support the decisions of petrologists in classifying maceral components.
 
 **Note**: this package requires installing Matlab **R2016b** or latter.
@@ -46,6 +43,6 @@ Released under MIT license
 ## Reference  
 1.Mlynarczuk, M.; Skiba, M. The application of artificial intelligence for the identification of the maceral groups and mineral components of coal. Comput. Geosci. 2017, 103, 133-141.     
 2.Rallakis, D.; Michels, R.; Brouand, M.; Parize, O.; Cathelineau, M. The Role of Organic Matter on Uranium Precipitation in Zoovch Ovoo, Mongolia. Minerals. 2019, 9, 310.     
-3.Chaudhuri, S.N. Coal macerals. Encycl. Mineral Energy Policy. 2016, 1-5.      
+3.Chaudhuri, S.N. Coal macerals. Encycl. Mineral Energy Policy. 2016, 1-5.      git
 
 
