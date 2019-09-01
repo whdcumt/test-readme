@@ -43,6 +43,6 @@ Released under MIT license
 ## Reference  
 1.Mlynarczuk, M.; Skiba, M. The application of artificial intelligence for the identification of the maceral groups and mineral components of coal. Comput. Geosci. 2017, 103, 133-141.     
 2.Rallakis, D.; Michels, R.; Brouand, M.; Parize, O.; Cathelineau, M. The Role of Organic Matter on Uranium Precipitation in Zoovch Ovoo, Mongolia. Minerals. 2019, 9, 310.     
-3.Chaudhuri, S.N. Coal macerals. Encycl. Mineral Energy Policy. 2016, 1-5.      git
+3.Chaudhuri, S.N. Coal macerals. Encycl. Mineral Energy Policy. 2016, 1-5.
 
 
